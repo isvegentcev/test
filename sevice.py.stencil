@@ -1,0 +1,3 @@
+def stencil(new):
+    """ stencil function """
+    {{name}} = 2 * 3

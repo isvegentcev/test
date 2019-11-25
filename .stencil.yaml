@@ -1,0 +1,9 @@
+---
+name: py_grpc_project
+info: Modern grpc service with python
+tags:
+  - grpc
+  - python
+  - docker
+  - gitlab
+  - itsumma
